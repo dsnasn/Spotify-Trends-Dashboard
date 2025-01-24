@@ -29,23 +29,25 @@ The dashboard is designed to be fully interactive, allowing users to dynamically
 
 ---
 
-## Demonstration GIFs
-
 ### 1. Genre Selection Interaction
-**Objective**: Demonstrate the impact of selecting a music genre on the overall dashboard layout.
-- **GIF**:  
-  ![Genre Selection Demonstration](gif/Genre_Selection.gif)
+**Objective**: Demonstrate the impact of selecting a music genre on the overall dashboard layout.  
+**GIF**:  
+<img src="gif/Genre_Selection.gif" alt="Genre Selection Demonstration" width="600">
+
+---
 
 ### 2. Filter Interaction
 **Objective**: Showcase the effect of applying filters to a specific section of the dashboard.  
-- Example: Rap genre, 2000-2020, popularity > 60.  
-- **GIF**:  
-  ![Filter Demonstration](gif/Filter.gif)
+Example: Rap genre, 2000–2020, popularity > 60.  
+**GIF**:  
+<img src="gif/Filter.gif" alt="Filter Demonstration" width="600">
+
+---
 
 ### 3. Top 10 Songs Playback
 **Objective**: Highlight the song playback feature within the dashboard.  
-- **GIF**:  
-  ![Top 10 Songs Playback Demonstration](gif/Top_10.gif)
+**GIF**:  
+<img src="gif/Top_10.gif" alt="Top 10 Songs Playback Demonstration" width="600">
 
 ---
 
