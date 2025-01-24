@@ -64,8 +64,8 @@ The dashboard is designed to be fully interactive, allowing users to dynamically
 
 ## How to Access the Dashboard
 
-**Static Visualization**:
-  - [Download Static Dashboard Screenshot](#)
+**Static Visualization**:  
+<img src="dashboard.png" alt="Static Dashboard Screenshot" width="600">
 
 ---
 
